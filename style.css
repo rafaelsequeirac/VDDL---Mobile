@@ -22,7 +22,7 @@
 
 .bg img{
     height: 100%;
-    margin-left: 3px;
+    margin-left: 5px;
 }
 
 
@@ -181,7 +181,7 @@
 }
 
 .newsletter{
-    width: 375px;
+    width: 100%;
     height: 200px;
     display: flex;
     margin-top:20px;
