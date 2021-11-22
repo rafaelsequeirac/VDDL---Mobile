@@ -8,7 +8,7 @@
     -webkit-box-sizing: border-box;
 }
 
-@media(max-width: 415px){
+@media(min-width: 300px) and (max-width: 415px){
 
 .bg{
     z-index: 99;
@@ -206,7 +206,7 @@
 }
 
 .icons-container a{
-    opacity: 80%;
+    opacity: 50%;
     display: flex;
     flex-direction: column;
     justify-content: center;
