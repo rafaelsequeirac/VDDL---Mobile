@@ -212,10 +212,11 @@
     justify-content: center;
     align-items: center;
     color: white;
+    text-decoration: none;
 }
-.icons-container a:hover{
+
+.active a{
     opacity: 100%;
-    outline: none;
 }
 
 .icons-container p{
